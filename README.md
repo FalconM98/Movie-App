@@ -1,6 +1,6 @@
 # flutter_movie_app
 
-A new Flutter project.
+Proyecto realizado en flutter con Providers, animaciones, Peticiones HTTP y mucho más
 
 ## Getting Started
 
